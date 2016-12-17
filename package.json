@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-et-nodejs",
+  "version": "1.0.0",
+  "description": "Web App se basant sur Node, Express et MongoDB. La persistance des données est garantie par l'utilisation des opérations de base CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunisDarbella/mongodb-et-nodejs.git"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "nodejs"
+  ],
+  "author": "Yunis Darbellay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunisDarbella/mongodb-et-nodejs/issues"
+  },
+  "homepage": "https://github.com/yunisDarbella/mongodb-et-nodejs#readme"
+}
